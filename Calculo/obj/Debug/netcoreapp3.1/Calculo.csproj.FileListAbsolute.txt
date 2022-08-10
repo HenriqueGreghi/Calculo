@@ -1,0 +1,14 @@
+C:\Users\017557631\Desktop\C#\Projetos\Calculo\Calculo\bin\Debug\netcoreapp3.1\Calculo.exe
+C:\Users\017557631\Desktop\C#\Projetos\Calculo\Calculo\bin\Debug\netcoreapp3.1\Calculo.deps.json
+C:\Users\017557631\Desktop\C#\Projetos\Calculo\Calculo\bin\Debug\netcoreapp3.1\Calculo.runtimeconfig.json
+C:\Users\017557631\Desktop\C#\Projetos\Calculo\Calculo\bin\Debug\netcoreapp3.1\Calculo.runtimeconfig.dev.json
+C:\Users\017557631\Desktop\C#\Projetos\Calculo\Calculo\bin\Debug\netcoreapp3.1\Calculo.dll
+C:\Users\017557631\Desktop\C#\Projetos\Calculo\Calculo\bin\Debug\netcoreapp3.1\Calculo.pdb
+C:\Users\017557631\Desktop\C#\Projetos\Calculo\Calculo\obj\Debug\netcoreapp3.1\Calculo.csproj.AssemblyReference.cache
+C:\Users\017557631\Desktop\C#\Projetos\Calculo\Calculo\obj\Debug\netcoreapp3.1\Calculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\017557631\Desktop\C#\Projetos\Calculo\Calculo\obj\Debug\netcoreapp3.1\Calculo.AssemblyInfoInputs.cache
+C:\Users\017557631\Desktop\C#\Projetos\Calculo\Calculo\obj\Debug\netcoreapp3.1\Calculo.AssemblyInfo.cs
+C:\Users\017557631\Desktop\C#\Projetos\Calculo\Calculo\obj\Debug\netcoreapp3.1\Calculo.csproj.CoreCompileInputs.cache
+C:\Users\017557631\Desktop\C#\Projetos\Calculo\Calculo\obj\Debug\netcoreapp3.1\Calculo.dll
+C:\Users\017557631\Desktop\C#\Projetos\Calculo\Calculo\obj\Debug\netcoreapp3.1\Calculo.pdb
+C:\Users\017557631\Desktop\C#\Projetos\Calculo\Calculo\obj\Debug\netcoreapp3.1\Calculo.genruntimeconfig.cache
