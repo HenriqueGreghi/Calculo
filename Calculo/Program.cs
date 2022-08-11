@@ -13,7 +13,8 @@ namespace Calculo
             Console.WriteLine("1 - Calculo de IMC.");
             Console.WriteLine("2 - Calculo de Área.");
             Console.WriteLine("3 - Regra de Três.");
-            Console.WriteLine("4 - Sair.");
+            Console.WriteLine("4 - Tabuada.");
+            Console.WriteLine("5 - Sair.");
 
             int x = int.Parse(Console.ReadLine());
 
@@ -30,8 +31,13 @@ namespace Calculo
             {
                 Regra();
             }
+            else if (x == 4)
+            {
+                Tabuada();
+            }
             else
             {
+
             }
 
         }
@@ -77,6 +83,19 @@ namespace Calculo
            
 
             Console.WriteLine("O valor é: " + r.Regra());
+        }
+
+        public static void Tabuada()
+        {
+            int a;
+            Console.Write("Entre com o número : ");
+            int x = int.Parse(Console.ReadLine());
+
+            for (int i = 0; i <= 10; i++)
+            {
+                a = i * x;
+                Console.WriteLine(i + " x " + x + " = " + a);
+            }
         }
     }
 }
